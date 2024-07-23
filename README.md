@@ -7,7 +7,7 @@ Second headings are always written here
 
 **bold letters**
 
-*books
-*pencils
-*notes
+* books
+* pencils
+* notes
 Adding collaborators
